@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.topic{
+    margin-left: 4%;
+    letter-spacing: 0.15em;
+    color: rgb(81, 75, 75);
+}
+header{
+    display: flex;
+    background-color: #ffffff;
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #b6b1b1;
+    margin-right: 8px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+.image{
+    margin-left: 6%;
+}
+.pics_item{
+    padding-top: 20px;
+    width: 300px;
+
+}
+.text {
+    padding-bottom: 40px;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 50px;
+    text-align: justify;
+}
